@@ -2,3 +2,7 @@ Organizers name:
 Siddhi Choudhari
 Priti Devlekar
 Palak pimple
+
+Technical team:
+Soham
+Aditya
