@@ -9,3 +9,5 @@ Date: 17th sep 2026
 Venue: VJTI
 
 event status: done
+
+A new upcoming event
