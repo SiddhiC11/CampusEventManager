@@ -11,3 +11,5 @@ Venue: VJTI
 event status: done
 
 A new upcoming event
+Event Contact: 
+student.event@college.com
